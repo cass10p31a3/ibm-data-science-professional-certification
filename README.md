@@ -1,4 +1,4 @@
-# ibm-data-science-professional-certification
+# IBM Data Science Professional Certification
 Everythig related to to IBM Data Science Professional Certification
 
 ### Overview
